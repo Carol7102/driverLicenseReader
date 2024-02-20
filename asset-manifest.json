@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/driverLicenseReader/static/css/main.e6c13ad2.css",
+    "main.js": "/driverLicenseReader/static/js/main.9a92ed9a.js",
+    "static/js/453.1128fee5.chunk.js": "/driverLicenseReader/static/js/453.1128fee5.chunk.js",
+    "index.html": "/driverLicenseReader/index.html",
+    "main.e6c13ad2.css.map": "/driverLicenseReader/static/css/main.e6c13ad2.css.map",
+    "main.9a92ed9a.js.map": "/driverLicenseReader/static/js/main.9a92ed9a.js.map",
+    "453.1128fee5.chunk.js.map": "/driverLicenseReader/static/js/453.1128fee5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9a92ed9a.js"
+  ]
+}
